@@ -65,3 +65,4 @@ Análise da correlação entre PIB vs Indice Mortalidade Infantil
 ```{r}
 cor.test(paises_G8$GDP, paises_G8$infmortality)
 ```
+aaaaaaa
